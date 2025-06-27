@@ -8,7 +8,7 @@ An intelligent travel planning web application that helps you plan budget-friend
 
 ## ✨ Features
 
-- **Smart Flight Search**: Real-time flight data with instant booking links to Google Flights, Skyscanner, and Kayak
+- **Smart Flight Search**: Real-time flight data with instant booking links to Google Flights
 - **Hotel Recommendations**: Personalized hotel suggestions based on your budget and preferences
 - **AI-Powered Itineraries**: Custom day-by-day plans based on your interests and travel style
 - **Interactive Chat Assistant**: Voice-enabled travel assistant for questions and trip planning
